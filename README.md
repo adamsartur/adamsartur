@@ -1,16 +1,19 @@
-### Hi there 👋
+I'm Artur Adams, a web developer from Novo Hamburgo, Rio Grande do Sul, Brazil 🇧🇷
 
-<!--
-**adamsartur/adamsartur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me 💬
 
-Here are some ideas to get you started:
+I develop web applications with React, TypeScript, Node.js and frontend automations 🚀<br/>
+play guitar and some instruments 🎸<br/>
+brew my own beer -its been a while though 🍻 <br/>
+practice yoga 🧘 <br/>
+like games and series 🎮 <br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My projects 🛠️
+
+- One of my favorite projects is the [Mindmaps](https://github.com/adamsartur/mindmaps), which is a web app to create and share mind maps 💡 <br/>
+- Im new creating open projects here, but very enthusiastic! You can check out more of my projects on my [GitHub profile](https://github.com/adamsartur) 🌐
+
+## Contact me 📫
+
+- You can send me an email to adamsartur@gmail.com ✉️ <br/>
+- You can connect with me on [LinkedIn](https://www.linkedin.com/in/arturadams/) 💼
