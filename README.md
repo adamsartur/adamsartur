@@ -6,7 +6,7 @@ I'm from Novo Hamburgo, Rio Grande do Sul, Brazil 🇧🇷
 
 I develop web applications with React, TypeScript, Node.js and frontend automations 🚀<br/>
 I play guitar and some instruments 🎸<br/>
-I make my own beer - but it's been a while 🍻 <br/>
+I brew my own beer - but it's been a while 🍻 <br/>
 I practice yoga 🧘 <br/>
 I like games and series 🎮 <br/>
 
