@@ -1,6 +1,6 @@
 Hello! 👋 <br/>
 I'm Artur Adams, a web developer passionate about creating simple and efficient solutions for users. 😍<br/>
-I'm from Novo Hamburgo, Rio Grande do Sul, Brazil 🇧🇷
+I'm from Novo Hamburgo, Rio Grande do Sul, Brazil 🇧🇷<br/>
 
 ## About me 💬
 
@@ -12,6 +12,7 @@ I like games and series 🎮 <br/>
 
 ## My projects 🛠️
 
+- You can check out my [Portfolio](https://arturadams.netlify.app/) 💻 <br/>
 - One of my favorite projects is the [Mindmaps](https://github.com/adamsartur/mindmaps), which is a web app to create and share mind maps 💡 <br/>
 - I'm new to creating open projects here, but very enthusiastic! Once I have new cool stuff I'll update here 🔥
 
