@@ -1,20 +1,11 @@
 Hello! 👋 <br/>
-I'm Artur Adams, a web developer passionate about creating simple and efficient solutions for users. 😍<br/>
+I'm Artur Adams, a web developer passionate about keeping up with technology advances. <br/>
 I'm from Novo Hamburgo, Rio Grande do Sul, Brazil 🇧🇷<br/>
 
 ## About me 💬
 
-I develop web applications with React, TypeScript, Node.js and frontend automations 🚀<br/>
-I play guitar and some instruments 🎸<br/>
-I brew my own beer - but it's been a while 🍻 <br/>
-I practice yoga 🧘 <br/>
-I like games and series 🎮 <br/>
-
-## My projects 🛠️
-
-- You can check out my [Portfolio](https://arturadams.netlify.app/) 💻 <br/>
-- One of my favorite projects is the [Mindmaps](https://github.com/adamsartur/mindmaps), which is a web app to create and share mind maps 💡 <br/>
-- I'm new to creating open projects here, but very enthusiastic! Once I have new cool stuff I'll update here 🔥
+I develop web applications with Next, React, TypeScript, Node.js <br/>
+I love to start out new projects to learn new technologies, with focus on things that will be personally useful :D <br/>
 
 ## Contact me 📫
 
